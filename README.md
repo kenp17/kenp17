@@ -1,5 +1,5 @@
 ## About Me
-I am a sophomore at UNC-Chapel Hill (Class of 2027), currently studying Computer Science and Business. My career interests lie at the intersection of software engineering and product management, as I enjoy solving complex problems through technology and understanding how software products can meet user needs. I'm excited to build on my skills and apply them in real-world projects, with a particular interest in developing efficient, user-friendly software.
+I am a sophomore at UNC-Chapel Hill (Class of 2027), currently studying Computer Science and Entrepreneuship. My career interests lie at the intersection of software engineering and product management, as I enjoy solving complex problems through technology and understanding how software products can meet user needs. I'm excited to build on my skills and apply them in real-world projects, with a particular interest in developing efficient, user-friendly software.
 
 ## Skills
 
